@@ -1,0 +1,8 @@
+#Mon Jan 07 16:46:32 CST 2019
+URL=url
+Name=ErpQueryEndpoint
+TrustAll=FALSE
+Type=HTTP
+Password=pass
+Authentication=BasicAuthentication
+User=user
